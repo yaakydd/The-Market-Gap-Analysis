@@ -1,5 +1,6 @@
 # Project Brief: The "Sugar Trap" Market Gap Analysis
 
+
 **Client:** Helix CPG Partners (Strategic Food & Beverage Consultancy)  
 **Deliverable:** Interactive Dashboard, Code Notebook & Insight Presentation
 
