@@ -111,6 +111,7 @@ Please edit this `README.md` file in your forked repository to include the follo
 * I dropped rows missing key info like product name, sugar, protein, or category, since those are essential for the analysis. I also filtered out impossible values, such as sugar or protein above 100g per 100g, or negative numbers. Lastly, I checked that sugar never exceeded total carbohydrates, since sugar is technically part of carbohydrate and shouldn't be higher than it.
 * 
 * Explain your "Candidate's Choice" addition.
+* For my Candidate's Choice addition, I decided to add a Nutri-Score ratings for Sweet Snacks & Desserts. I picked this because it's a well-known, external rating and it doesn't depend on my own sugar/protein cutoffs. It confirmed what I'd already found out that 60% of products scored a D or E.
 
 **Important Note on Code Submission:**
 * Upload your `.ipynb` notebook file to the repo.
