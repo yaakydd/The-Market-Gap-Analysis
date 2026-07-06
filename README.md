@@ -4,7 +4,7 @@
 ### B. Project Links
 * **Link to Notebook:** (https://colab.research.google.com/drive/1h_71VdhYbVgOSLs9191BgxgYJCH2VRUH?usp=sharing)
 * **Link to Dashboard:** (https://app.powerbi.com/view?r=eyJrIjoiZTUyNWU0YmQtYTFjZi00OWRlLTkzMTctYTYxNDQ1NjNkMzA0IiwidCI6IjEwNGQ4MDQ4LWZkMGMtNDNkNS1hNjMwLWZjNjI5ZTVkYWI1OSJ9).
-* **Link to Presentation:** A link to a short slide deck (PDF, PPT) AND (Optional) a 2-minute video walkthrough (YouTube) explaining your results.
+* **Link to Presentation:** (https://knustedugh-my.sharepoint.com/:p:/g/personal/yaantwi1_st_knust_edu_gh/IQDVIqdD5D-PT7oqQQFAeTgSAU52RwQDsGuONBxwPBvBezw?e=PjJWAH)
 
 ### C. Technical Explanation
 * Briefly explain how you handled the "Data Cleaning".
